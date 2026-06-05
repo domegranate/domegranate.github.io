@@ -40,13 +40,12 @@ Uvoz i izvoz datoteka (CSV, XLSX, ZIP, PDF) odvija se putem sustavnih dijaloga A
 #### 5. Dijeljenje podataka s trećim stranama
 Promet ne prodaje, ne iznajmljuje i ne dijeli vaše podatke nikome. Aplikacija ne koristi oglašavanje, analitiku (npr. Firebase Analytics), alate za praćenje korisnika niti društvene mreže. Za Googleove usluge pogledajte: Google Privacy Policy. Podaci mogu biti proslijeđeni trećim stranama samo kada to sami pokrenete ili kada to zahtijevaju usluge ugrađene u aplikaciju:
 
-Treća strana	Svrha	Napomena
-Google (ML Kit / Play usluge)	Skeniranje QR koda na računu	Google može obrađivati podatke prema svojoj politici privatnosti
-Vaša e-mail aplikacija	Slanje sigurnosne kopije	Vi pokrećete slanje i birate primatelja
-Preglednik i druge aplikacije	Otvaranje poveznica
-(obrazaca, službenih stranica)	Samo kada dodirnete poveznicu u aplikaciji
-Google Forms (povratne informacije)	Opcionalni obrazac
-za povratne informacije	Samo ako ga sami otvorite i pošaljete
+|Treća strana|Svrha|Napomena|
+|------------|-----|--------|
+|Google (ML Kit / Play usluge)|Skeniranje QR koda na računu|Google može obrađivati podatke prema svojoj politici privatnosti|
+|Vaša e-mail aplikacija|Slanje sigurnosne kopije|Vi pokrećete slanje i birate primatelja|
+|Preglednik i druge aplikacije|Otvaranje poveznica (obrazaca, službenih stranica)|Samo kada dodirnete poveznicu u aplikaciji|
+|Google Forms (povratne informacije)|Opcionalni obrazac|za povratne informacije	Samo ako ga sami otvorite i pošaljete|
 
 #### 6. Mrežni pristup
 Aplikacija može zatražiti dozvolu za pristup internetu i stanju mreže zbog ovisnosti o Google Play uslugama (npr. ML Kit skener). Promet ne šalje vaše poslovne podatke putem interneta.
@@ -70,8 +69,7 @@ Primjenjujemo razumne tehničke mjere za zaštitu podataka na uređaju, uključu
 Možemo povremeno ažurirati ovu Politiku privatnosti. Nova verzija bit će objavljena na istoj adresi s novim datumom stupanja na snagu. Za značajne promjene možemo obavijestiti putem aplikacije ili Play Store opisa.
 
 #### 13. Kontakt
-Za pitanja o privatnosti ili ovoj politici:
-
-Dominik Odobašić
-E-mail: dominius.app@outlook.com
+Za pitanja o privatnosti ili ovoj politici:\
+Dominik Odobašić\
+E-mail: dominius.app@outlook.com\
 Aplikacija: Promet (com.dominius.promet)
