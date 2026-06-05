@@ -2,7 +2,7 @@
 #### Datum stupanja na snagu: 01. 06. 2026.
 #### Zadnja izmjena: 01. 06. 2026.
 
-#### 1. Uvod
+<p align="justify">#### 1. Uvod
 Ova Politika privatnosti opisuje kako mobilna aplikacija Promet („aplikacija”) postupa s informacijama kada je koristite na Android uređaju. Promet je aplikacija za vođenje knjige prometa, praćenje računa i rashoda te pomoć pri administrativnim i poreznim obvezama obrtnika i poduzetnika u Hrvatskoj. Aplikacija ne prikuplja, ne pohranjuje i ne obrađuje vaše podatke na našim serverima. Svi podaci koje unesete ostaju na vašem uređaju, osim ako ih sami izvezete ili pošaljete putem drugih aplikacija (npr. e-pošte).
 
 #### 2. Koje podatke aplikacija obrađuje
@@ -72,4 +72,4 @@ Možemo povremeno ažurirati ovu Politiku privatnosti. Nova verzija bit će obja
 Za pitanja o privatnosti ili ovoj politici:\
 Dominik Odobašić\
 E-mail: dominius.app@outlook.com\
-Aplikacija: Promet (com.dominius.promet)
+Aplikacija: Promet (com.dominius.promet)</p>
