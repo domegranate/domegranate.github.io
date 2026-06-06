@@ -1,4 +1,3 @@
-# Politika privatnosti - Promet
 #### Datum stupanja na snagu: 01. 06. 2026.
 #### Zadnja izmjena: 01. 06. 2026.
 
