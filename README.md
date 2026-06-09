@@ -10,7 +10,7 @@
 ##### 2.1. Poslovni i financijski podaci
 <p align="justify">podatke o računima i prometu (iznosi, datumi, načini plaćanja);
 podatke o rashodima i planiranim troškovima;
-administrativne podatke (podaci o djelatnosti i poslovnom prostoru, ime poduzetnika, adresa, OIB).</p>
+administrativne podatke (podaci o djelatnosti i poslovnom prostoru, ime poduzetnika, adresa, OIB, broj telefona, e-mail).</p>
 
 ##### 2.2. Postavke aplikacije
 <p align="justify">preferencije prikaza (npr. tamni način rada);
@@ -33,8 +33,8 @@ sadržaj sigurnosnih kopija (ZIP) koje sami odaberete za vraćanje podataka.</p>
 ##### 4.1. Sigurnosna kopija
 <p align="justify">Kada stvorite sigurnosnu kopiju, aplikacija lokalno izrađuje ZIP arhivu koja može sadržavati vaše račune, rashode i postavke. Arhiva se može zaštititi PIN-om pomoću enkripcije AES-256-GCM (PBKDF2). Aplikacija ne šalje e-poštu automatski - vi ručno šaljete privitak na adresu koju ste unijeli. Primatelj, pohrana i sigurnost te poruke ovisi o vašem e-mail pružatelju usluga - to nije pod kontrolom Prometa.</p>
 
-##### 4.2. Uvoz, izvoz i PDF
-<p align="justify">Uvoz i izvoz datoteka (CSV, XLSX, ZIP, PDF) odvija se putem sustavnih dijaloga Androida; vi birate datoteke i odredište. Promet ne prenosi te datoteke nikome.</p>
+##### 4.2. Uvoz, izvoz, ZIP, PDF, XML
+<p align="justify">Uvoz i izvoz datoteka (CSV, XLSX, ZIP, PDF, XML) odvija se putem sustavnih dijaloga Androida; vi birate datoteke i odredište. Promet ne prenosi te datoteke nikome.</p>
 
 #### 5. Dijeljenje podataka s trećim stranama
 <p align="justify">Promet ne prodaje, ne iznajmljuje i ne dijeli vaše podatke nikome. Aplikacija ne koristi oglašavanje, analitiku (npr. Firebase Analytics), alate za praćenje korisnika niti društvene mreže. Za Googleove usluge pogledajte: Google Privacy Policy. Podaci mogu biti proslijeđeni trećim stranama samo kada to sami pokrenete ili kada to zahtijevaju usluge ugrađene u aplikaciju:</p>
@@ -56,7 +56,7 @@ sadržaj sigurnosnih kopija (ZIP) koje sami odaberete za vraćanje podataka.</p>
 <p align="justify">Promet nije namijenjena djeci. Ne prikupljamo svjesno osobne podatke djece mlađe od 13 godina.</p>
 
 #### 9. Vaša prava i kontrola nad podacima
-<p align="justify">Budući da podatke držite na svom uređaju, vi imate potpunu kontrolu: Pregled i izmjena — u aplikaciji možete uređivati ili brisati unose. Izvoz — možete izvesti podatke u CSV ili PDF. Sigurnosna kopija — možete stvoriti i pohraniti vlastitu arhivu. Brisanje — deinstalacija aplikacije uklanja lokalno pohranjene podatke s uređaja (osim kopija koje ste ranije spremili izvan aplikacije, npr. u e-pošti ili oblaku). Ako ste u Europskom gospodarskom prostoru (EGP), imate prava prema GDPR-u (pristup, ispravak, brisanje, ograničenje obrade, prigovor i prenosivost — u praksi ostvarujete ih upravljanjem podacima na uređaju i kopijama koje sami držite).</p>
+<p align="justify">Budući da podatke držite na svom uređaju, vi imate potpunu kontrolu: Pregled i izmjena — u aplikaciji možete uređivati ili brisati unose. Izvoz — možete izvesti podatke u CSV, PDF, XML. Sigurnosna kopija — možete stvoriti i pohraniti vlastitu arhivu. Brisanje — deinstalacija aplikacije uklanja lokalno pohranjene podatke s uređaja (osim kopija koje ste ranije spremili izvan aplikacije, npr. u e-pošti ili oblaku). Ako ste u Europskom gospodarskom prostoru (EGP), imate prava prema GDPR-u (pristup, ispravak, brisanje, ograničenje obrade, prigovor i prenosivost — u praksi ostvarujete ih upravljanjem podacima na uređaju i kopijama koje sami držite).</p>
 
 #### 10. Zadržavanje podataka
 <p align="justify">Podaci ostaju na uređaju dok ih ne izbrišete, ne vratite iz sigurnosne kopije (što briše postojeće podatke) ili ne deinstalirate aplikaciju. Privremene datoteke (npr. sigurnosna kopija u predmemoriji prije slanja e-poštom) aplikacija briše pri stvaranju nove kopije ili kada Android očisti predmemoriju.</p>
